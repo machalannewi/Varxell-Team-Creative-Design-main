@@ -6,6 +6,7 @@ A visually-rich, interactive landing page for a fictional Varxell Team, showcasi
 
 #### Live site:
 
+- [Vercel Link](https://varxell-design.vercel.app/)
 
 ---
 
